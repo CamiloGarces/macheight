@@ -2,8 +2,8 @@
 
 You need to have installed [Node.js (recommended last LTS)](https://nodejs.org/en/)
 
-To execute the script:
+Run in your terminal to execute:
 
 ```bash
-node test.js 1,9,5,0,20,-4,12,16,7 12
+$ node test.js 1,9,5,0,20,-4,12,16,7 12
 ```
